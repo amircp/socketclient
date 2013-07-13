@@ -16,7 +16,7 @@ if x.connect():
     data_returned = recv()
     print data_returned
     close()
-´´´
+```
 
 * The above code tries to connect to localhost:80 and makes a request for index and wait until data is returned.
 
