@@ -1,8 +1,5 @@
-socketclient
+Python TCP Socket Client
 ============
-
-# Socket TCP Client Class developed in Python
-
 * This is an useful client tcp socket class with a few lines of code you can connect to whatever server/port you want.
 
 
